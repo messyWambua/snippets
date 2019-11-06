@@ -1,0 +1,44 @@
+body{
+	background-image: radial-gradient(circle, aqua, gray);
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	font-family: "consolas"
+}
+.formHolder{
+	width: 50%;
+	border: 1px solid black;
+	margin-left: 150px;
+	margin-top:50px;
+	font-size: 29px;
+	border-radius: 10px;
+	padding: 20px;
+	background: grey;
+
+}
+.inputType{
+	width: 450px;
+	padding: 10px;
+	font-size: 20px;
+	font-style: italic;
+	border-radius: 5px;
+
+}
+.navStyling{
+	display: fixed;
+	border: 1px solid black;
+	border-radius: 10px;
+	font-size: 34px;
+	padding: 5px;
+	margin-top: 10px;
+	color: aqua;
+	background: rgba(1,1,1,0.5);
+}
+.navButtons{
+	float: right;
+	border: none;
+	background: rgba(1,1,1,0.0);
+	font-size: 24px;
+	padding-top: 5px;
+}
+}
